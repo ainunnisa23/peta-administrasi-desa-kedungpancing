@@ -1,0 +1,1 @@
+var json_KantorDesa_22 = {"type":"FeatureCollection","name":"KantorDesa_22","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama":"Kantor Desa Kedungpancing"},"geometry":{"type":"Point","coordinates":[111.145551888487233,-6.726100311251906]}}]}

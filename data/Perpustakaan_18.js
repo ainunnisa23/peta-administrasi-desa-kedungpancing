@@ -1,0 +1,1 @@
+var json_Perpustakaan_18 = {"type":"FeatureCollection","name":"Perpustakaan_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama":"Perpustakaan Desa"},"geometry":{"type":"Point","coordinates":[111.144476618365047,-6.725737892843339]}}]}

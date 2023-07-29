@@ -1,0 +1,1 @@
+var json_MusalaAlHikmah_12 = {"type":"FeatureCollection","name":"MusalaAlHikmah_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama":"Musala Al-Hikmah"},"geometry":{"type":"Point","coordinates":[111.146042587817519,-6.725006669377851]}}]}

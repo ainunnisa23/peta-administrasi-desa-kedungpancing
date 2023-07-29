@@ -1,0 +1,1 @@
+var json_TPI_16 = {"type":"FeatureCollection","name":"TPI_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama":"Tempat Pelelangan Ikan"},"geometry":{"type":"Point","coordinates":[111.144785739384403,-6.72530111942465]}}]}

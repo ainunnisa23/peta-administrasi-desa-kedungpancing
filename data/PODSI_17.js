@@ -1,0 +1,1 @@
+var json_PODSI_17 = {"type":"FeatureCollection","name":"PODSI_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama":"Basecamp PODSI Pati"},"geometry":{"type":"Point","coordinates":[111.144637134484697,-6.725488312822051]}}]}

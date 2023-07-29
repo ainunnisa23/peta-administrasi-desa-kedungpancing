@@ -1,0 +1,1 @@
+var json_WisataSusurSungai_19 = {"type":"FeatureCollection","name":"WisataSusurSungai_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama":"Wisata Susur Sungai"},"geometry":{"type":"Point","coordinates":[111.144491161854958,-6.725442463766369]}}]}

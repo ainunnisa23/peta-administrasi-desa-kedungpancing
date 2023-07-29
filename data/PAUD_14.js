@@ -1,0 +1,1 @@
+var json_PAUD_14 = {"type":"FeatureCollection","name":"PAUD_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama":"Kelompok Bermain Lestari"},"geometry":{"type":"Point","coordinates":[111.146016198557803,-6.725191737148553]}}]}

@@ -1,0 +1,1 @@
+var json_Punden_21 = {"type":"FeatureCollection","name":"Punden_21","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama":"Punden"},"geometry":{"type":"Point","coordinates":[111.145973126946885,-6.727322215504796]}}]}

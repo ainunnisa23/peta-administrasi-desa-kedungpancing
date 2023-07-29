@@ -1,0 +1,1 @@
+var json_MasjidBaitusSyukri_20 = {"type":"FeatureCollection","name":"MasjidBaitusSyukri_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"nama":"Masjid Baitus Syukri"},"geometry":{"type":"Point","coordinates":[111.145485726207639,-6.72522669274155]}}]}
